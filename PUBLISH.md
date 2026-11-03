@@ -1,6 +1,6 @@
 # Publish this skill to a new GitHub repo
 
-1. **Create the repo** on GitHub (e.g. `RuneweaverStudios/openclaw-better-ralph` or your org/name). Do not add a README or .gitignore (this repo already has them).
+1. **Create the repo** on GitHub (e.g. `austindixson/openclaw-better-ralph` or your org/name). Do not add a README or .gitignore (this repo already has them).
 
 2. **Set the remote** (if not already set):
    ```bash

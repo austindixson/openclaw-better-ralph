@@ -85,5 +85,5 @@ Put a `prd.json` in the project root. Copy from `prd.json.example` and edit:
 ## References
 
 - [Ralph](https://github.com/snarktank/ralph) – Original PRD-driven loop (Amp / Claude Code)
-- [Better Ralph](https://github.com/RuneweaverStudios/better-ralph) – Docs and Aether-Claw runtime
+- [Better Ralph](https://github.com/austindixson/better-ralph) – Docs and Aether-Claw runtime
 - [OpenClaw Skills](https://docs.clawd.bot/tools/skills) – How OpenClaw loads skills
